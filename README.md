@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jorge Luis Carreon Dircio</h1>
 <h3 align="center">A passionate full stack developer from Mexico</h3>
 
-- 🔭 I’m currently working on [Zurich](https://www.grupo-ditec.com.mx/)
+- 🔭 I’m currently working on [DBACCESS](https://dbaccess.com/)
 
 - 🌱 I’m currently learning **NEXT JS, GraphQL and SPRING BOOT**
 
-- 🔭 I’m currently working on [DBACCESS](https://dbaccess.com/)
-
-- 🔭 I’m currently working on [XID](https://www.xid.com.mx/)
 
 - My linkeding [https://www.linkedin.com/in/jorge-luis-carreon-dircio-3815a0156/](https://www.linkedin.com/in/jorge-luis-carreon-dircio-3815a0156/)
 
