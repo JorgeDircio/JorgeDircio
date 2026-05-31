@@ -1,23 +1,133 @@
-<h1 align="center">Hi 👋, I'm Jorge Luis Carreon Dircio</h1>
-<h3 align="center">A passionate full stack developer from Mexico</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=Jorge%20Dircio&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20Freelance&descAlignY=58&fontColor=ffffff" width="100%" />
+</div>
 
-- 🔭 I’m currently working on [DBACCESS](https://dbaccess.com/)
+<div align="center">
 
-- 🌱 I’m currently learning **NEXT JS, GraphQL and SPRING BOOT**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jorgedircio.dev-06b6d4?style=for-the-badge&logoColor=white)](https://jorgedircio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-luis-carreon-dircio-3815a0156/)
+[![Email](https://img.shields.io/badge/Gmail-jorgedircio.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgedircio.dev@gmail.com)
+[![Calendly](https://img.shields.io/badge/📅_Book_a_call-Calendly-00A2FF?style=for-the-badge)](https://calendly.com/jorgedircio-dev/30min)
 
+<br/>
 
-- My linkeding [https://www.linkedin.com/in/jorge-luis-carreon-dircio-3815a0156/](https://www.linkedin.com/in/jorge-luis-carreon-dircio-3815a0156/)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+web+apps+%26+APIs+that+scale+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+AWS;Available+for+freelance+%E2%80%94+LATAM+%26+USA)
 
-- 💬 Ask me about **React, JS, Node**
+</div>
 
-- 📫 How to reach me **jorgeluispedro16@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-luis-carreon-dircio-3815a0156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-luis-carreon-dircio-3815a0156/" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+```typescript
+const jorge = {
+  name:       "Jorge Luis Dircio",
+  role:       "Full Stack Developer Freelance",
+  location:   "Ciudad de México 🇲🇽",
+  available:  true,
+  experience: "6+ years",
+  languages:  ["Spanish 🇲🇽", "English 🇺🇸"],
+  contact:    "jorgedircio.dev@gmail.com",
+  portfolio:  "https://jorgedircio.dev",
+};
+```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgedircio&show_icons=true&locale=en&layout=compact" alt="jorgedircio" /></p>
+- 🚀 I build **web apps, ecommerce, APIs and backends** for clients across LATAM & USA
+- 🏗️ Strong focus on **clean code**, solid architecture and **fast delivery**
+- 💡 Experience in **fintech, construction, insurance and manufacturing**
+- 📫 Reach me at **jorgedircio.dev@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JorgeDircio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=3b82f6&text_color=a1a1aa" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeDircio&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=a1a1aa&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JorgeDircio&theme=github-dark-blue&hide_border=true&background=0d1117&ring=06b6d4&fire=3b82f6&currStreakLabel=06b6d4)
+
+</div>
+
+---
+
+## 💼 Freelance Services
+
+<div align="center">
+
+| 🖥️ Web Application | ⚙️ Backend & API | 🚀 Full Stack App |
+|:---:|:---:|:---:|
+| Next.js · React · TailwindCSS | FastAPI · Node.js · AWS | React + FastAPI · PostgreSQL · AWS |
+| Landing pages, ecommerce, dashboards | REST APIs, microservices | End-to-end product |
+| **From $600 USD** | **From $800 USD** | **From $1,500 USD** |
+
+**👉 [View services & get a quote →](https://jorgedircio.dev/#services)**
+
+</div>
+
+---
+
+## 🏆 Career Highlights
+
+- ⚡ **30% faster APIs** — Optimized FastAPI response times from 800ms → 560ms at KODEVOX
+- 🗄️ **40% SQL optimization** — PostgreSQL query performance improvements in production
+- 🏨 **50+ hotels integrated** — Real-time reservation CRM at DBACCESS
+- 📱 **8+ industrial plants** — Offline-first mobile audit app at Gemba Walk
+- 👥 **Led a team of 6 developers** — Full Stack lead at KODEVOX (Fintech)
+
+---
+
+<div align="center">
+
+### 📬 Let's build something great together
+
+[![Portfolio](https://img.shields.io/badge/Visit_my_Portfolio-jorgedircio.dev-06b6d4?style=for-the-badge&logoColor=white)](https://jorgedircio.dev)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=100&section=footer" width="100%" />
+
+</div>
