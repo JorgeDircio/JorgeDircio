@@ -10,6 +10,10 @@
 [![Calendly](https://img.shields.io/badge/📅_Book_a_call-Calendly-00A2FF?style=for-the-badge)](https://calendly.com/jorgedircio-dev/30min)
 [![Status](https://img.shields.io/badge/Status-Available_for_freelance-22c55e?style=for-the-badge)](https://jorgedircio.dev/#contact)
 
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+web+apps+%26+APIs+that+scale+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+AWS;Available+for+freelance+%E2%80%94+LATAM+%26+USA)
+
 </div>
 
 ---
